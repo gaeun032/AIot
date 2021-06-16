@@ -17,7 +17,7 @@ AIot 치매 예방 놀이 치료 게임으로 동작을 인식하여 움직이�
 라즈베리파이 카메라 값을 받아 추론을 한 후 유니티(C#)로 추론 값 전달하는 코드
 (TCP Server / UDP Server)
 
-[Game_C#Code 폴더]
+[game_C# 폴더]
 - [Coin.cs] : 코인을 먹었을 때 상태 코드
 - [KillPlayer.cs] : player가 떨어졌을 때 상태 코드
 - [Player.cs] : 추론 값을 받아 player를 움직이는 코드 (UDP Client)
