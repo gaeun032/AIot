@@ -15,7 +15,7 @@ AIot 치매 예방 놀이 치료 게임으로 라즈베리파이 카메라에서
 
 [inference.py]
 라즈베리파이 카메라 값을 받아 추론을 한 후 유니티(C#)로 추론 값 전달하는 코드
-(TCP Server / UDP Server)
+(TCP/UDP Server)
 
 [game_C# 폴더]
 - [Coin.cs] : 코인을 먹었을 때 상태 코드
