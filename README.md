@@ -1,7 +1,7 @@
 # AIot
 AIot 치매 예방 놀이 치료 게임
 
-AIot 치매 예방 놀이 치료 게임으로 동작을 인식하여 움직이는 게임입니다.
+AIot 치매 예방 놀이 치료 게임으로 라즈베리파이 카메라에서 동작을 인식하여 움직이는 게임입니다.
 
 [DeepLearning 폴더]
 - [skeleton.py] : openpose를 사용하여 skeleton을 뽑는 코드
